@@ -1,7 +1,7 @@
 # cctest/refraction.py
 
 import numpy as np
-
+from . import utils
 
 def snell(theta_inc, n1, n2):
     """
