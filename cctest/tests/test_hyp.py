@@ -11,7 +11,7 @@ def encode(input_string):
             if prev:
                 entry = (prev, count)
                 lst.append(entry)
-            #count = 1
+            count = 1
             prev = character
         else:
             count += 1
