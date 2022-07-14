@@ -3,9 +3,9 @@ cctest
 ======
 
 
-.. image:: https://img.shields.io/github/workflow/status/ymbahe/cctest/python-application-ci   :alt: GitHub Workflow Status
+.. image:: https://img.shields.io/github/workflow/status/ymbahe/cctest/python-application-ci
 
-.. image:: https://img.shields.io/github/workflow/status/ymbahe/cctest/python-application-ci?label=github%20CI
+.. image:: https://img.shields.io/github/workflow/status/ymbahe/cctest/python-application-ci?label=github%20CI     :alt: GitHub Workflow Status
 	   
 .. image:: https://img.shields.io/pypi/v/cctest.svg
         :target: https://pypi.python.org/pypi/cctest
