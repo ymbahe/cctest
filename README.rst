@@ -2,9 +2,9 @@
 cctest
 ======
 
-.. image:: https://img.shields.io/travis/ymbahe/cctest.svg
-        :target: https://travis-ci.org/ymbahe/cctest
 
+.. image:: https://img.shields.io/github/workflow/status/ymbahe/cctest/python-application-ci   :alt: GitHub Workflow Status
+		 
 .. image:: https://img.shields.io/pypi/v/cctest.svg
         :target: https://pypi.python.org/pypi/cctest
 
